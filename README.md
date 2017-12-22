@@ -5,14 +5,13 @@
         <groupId>com.yinjk.web</groupId>
         <artifactId>platform-parent</artifactId>
         <version>1.2</version>
-    </parent>
-
-    <dependencies>
+</parent>
+<dependencies>
         <dependency>
             <groupId>com.yinjk.web</groupId>
             <artifactId>platform-core</artifactId>
             <version>1.2</version>
         </dependency>
-    </dependencies>
+</dependencies>
     
 ```
